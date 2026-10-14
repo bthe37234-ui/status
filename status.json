@@ -1,0 +1,53 @@
+{
+  "updatedAt": 1791937381317,
+  "services": {
+    "project_ventura": {
+      "label": "Project Ventura",
+      "status": "issue",
+      "placeId": "98371023930528",
+      "scriptUpdatedAt": 1790871843111
+    },
+    "blox_strike": {
+      "label": "Blox Strike",
+      "status": "working",
+      "placeId": "114234929420007",
+      "scriptUpdatedAt": 1791772692986
+    },
+    "gakuran": {
+      "label": "Gakuran",
+      "status": "working",
+      "placeId": "128736949265057",
+      "scriptUpdatedAt": 1791617387881
+    },
+    "arcade_basketball": {
+      "label": "Arcade Basketball",
+      "status": "working",
+      "placeId": "134558434771720",
+      "scriptUpdatedAt": 1790822820000
+    },
+    "vice_city_2": {
+      "label": "Vice City 2",
+      "status": "updating",
+      "placeId": "76427445314955",
+      "scriptUpdatedAt": 1783932900000
+    },
+    "blox_fruits": {
+      "label": "Blox Fruits",
+      "status": "issue",
+      "placeId": "2753915549",
+      "scriptUpdatedAt": 1786166580000
+    },
+    "jump_for_animals": {
+      "label": "Jump for Animals",
+      "status": "working",
+      "placeId": "126870639873289",
+      "scriptUpdatedAt": 1791799940511
+    },
+    "blade_ball": {
+      "label": "Blade Ball",
+      "status": "working",
+      "placeId": "13772394625",
+      "scriptUpdatedAt": 1791834201703
+    }
+  }
+}
