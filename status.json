@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792036526683,
+  "updatedAt": 1792037531184,
   "services": {
     "project_ventura": {
       "label": "Project Ventura",
@@ -15,9 +15,9 @@
     },
     "gakuran": {
       "label": "Gakuran",
-      "status": "updating",
+      "status": "working",
       "placeId": "128736949265057",
-      "scriptUpdatedAt": 1791943695575
+      "scriptUpdatedAt": 1792037530616
     },
     "arcade_basketball": {
       "label": "Arcade Basketball",
