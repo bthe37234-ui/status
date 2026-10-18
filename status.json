@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792306465337,
+  "updatedAt": 1792306792890,
   "services": {
     "project_ventura": {
       "label": "Project Ventura",
@@ -27,7 +27,7 @@
     },
     "vice_city_2": {
       "label": "Vice City 2",
-      "status": "updating",
+      "status": "issue",
       "placeId": "76427445314955",
       "scriptUpdatedAt": 1783932900000
     },
