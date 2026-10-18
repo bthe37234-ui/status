@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792276166068,
+  "updatedAt": 1792291511969,
   "services": {
     "project_ventura": {
       "label": "Project Ventura",
@@ -41,7 +41,7 @@
       "label": "Jump for Animals",
       "status": "working",
       "placeId": "126870639873289",
-      "scriptUpdatedAt": 1791799940511
+      "scriptUpdatedAt": 1792291511525
     },
     "blade_ball": {
       "label": "Blade Ball",
