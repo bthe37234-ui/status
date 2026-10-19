@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792368351406,
+  "updatedAt": 1792368369078,
   "services": {
     "project_ventura": {
       "label": "Project Ventura",
@@ -50,7 +50,7 @@
       "scriptUpdatedAt": 1792269286399
     },
     "your_bizarre_adventure": {
-      "label": "🎃 Your Bizarre Adventure 🎃",
+      "label": "Your Bizarre Adventure",
       "status": "issue",
       "placeId": "2809202155",
       "scriptUpdatedAt": null
