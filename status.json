@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792799428125,
+  "updatedAt": 1792799439467,
   "services": {
     "project_ventura": {
       "label": "Project Ventura",
@@ -45,7 +45,7 @@
     },
     "blade_ball": {
       "label": "Blade Ball",
-      "status": "working",
+      "status": "updating",
       "placeId": "13772394625",
       "scriptUpdatedAt": 1792269286399
     },
