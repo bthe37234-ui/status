@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792799439467,
+  "updatedAt": 1792799957344,
   "services": {
     "project_ventura": {
       "label": "Project Ventura",
@@ -9,9 +9,9 @@
     },
     "blox_strike": {
       "label": "Blox Strike",
-      "status": "updating",
+      "status": "working",
       "placeId": "114234929420007",
-      "scriptUpdatedAt": 1792370457056
+      "scriptUpdatedAt": 1792799957043
     },
     "gakuran": {
       "label": "Gakuran",
