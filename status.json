@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1792876167176,
+  "updatedAt": 1792885725093,
   "services": {
     "project_ventura": {
       "label": "Project Ventura",
@@ -33,9 +33,9 @@
     },
     "blox_fruits": {
       "label": "Blox Fruits",
-      "status": "issue",
+      "status": "working",
       "placeId": "2753915549",
-      "scriptUpdatedAt": 1786166580000
+      "scriptUpdatedAt": 1792885724507
     },
     "jump_for_animals": {
       "label": "Jump for Animals",
