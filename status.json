@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794023886171,
+  "updatedAt": 1794025923600,
   "services": {
     "project_ventura": {
       "label": "Project Ventura",
@@ -12,12 +12,6 @@
       "status": "working",
       "placeId": "114234929420007",
       "scriptUpdatedAt": 1794011335846
-    },
-    "gakuran": {
-      "label": "Gakuran",
-      "status": "issue",
-      "placeId": "128736949265057",
-      "scriptUpdatedAt": 1792826293217
     },
     "arcade_basketball": {
       "label": "Arcade Basketball",
@@ -53,6 +47,12 @@
       "label": "Your Bizarre Adventure",
       "status": "issue",
       "placeId": "2809202155",
+      "scriptUpdatedAt": null
+    },
+    "gakuran": {
+      "label": "Gakuran",
+      "status": "working",
+      "placeId": null,
       "scriptUpdatedAt": null
     }
   }
