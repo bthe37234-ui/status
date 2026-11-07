@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794011337509,
+  "updatedAt": 1794023886171,
   "services": {
     "project_ventura": {
       "label": "Project Ventura",
@@ -15,7 +15,7 @@
     },
     "gakuran": {
       "label": "Gakuran",
-      "status": "working",
+      "status": "issue",
       "placeId": "128736949265057",
       "scriptUpdatedAt": 1792826293217
     },
