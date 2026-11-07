@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794078097513,
+  "updatedAt": 1794078299725,
   "services": {
     "blox_strike": {
       "label": "Blox Strike",
@@ -59,7 +59,7 @@
       "label": "Throw Food For Animals",
       "status": "working",
       "placeId": "120219252362013",
-      "scriptUpdatedAt": null
+      "scriptUpdatedAt": 1794078297439
     }
   }
 }
