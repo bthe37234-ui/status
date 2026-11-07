@@ -1,64 +1,74 @@
 {
-  "updatedAt": 1794078618458,
+  "updatedAt": 1794079018851,
   "services": {
     "blox_strike": {
       "label": "Blox Strike",
       "status": "working",
       "placeId": "114234929420007",
+      "gameUrl": "https://www.roblox.com/games/114234929420007/",
       "scriptUpdatedAt": 1794011335846
     },
     "arcade_basketball": {
       "label": "Arcade Basketball",
       "status": "working",
       "placeId": "134558434771720",
+      "gameUrl": "https://www.roblox.com/games/134558434771720/",
       "scriptUpdatedAt": 1790822820000
     },
     "vice_city_2": {
       "label": "Vice City 2",
       "status": "issue",
       "placeId": "76427445314955",
+      "gameUrl": "https://www.roblox.com/games/76427445314955/",
       "scriptUpdatedAt": 1783932900000
     },
     "blox_fruits": {
       "label": "Blox Fruits",
       "status": "working",
       "placeId": "2753915549",
+      "gameUrl": "https://www.roblox.com/games/2753915549/",
       "scriptUpdatedAt": 1793570155984
     },
     "jump_for_animals": {
       "label": "Jump for Animals",
       "status": "working",
       "placeId": "126870639873289",
+      "gameUrl": "https://www.roblox.com/games/126870639873289/",
       "scriptUpdatedAt": 1793480074129
     },
     "blade_ball": {
       "label": "Blade Ball",
       "status": "updating",
       "placeId": "13772394625",
+      "gameUrl": "https://www.roblox.com/games/13772394625/",
       "scriptUpdatedAt": 1793079647756
     },
     "your_bizarre_adventure": {
       "label": "Your Bizarre Adventure",
       "status": "issue",
       "placeId": "2809202155",
+      "gameUrl": "https://www.roblox.com/games/2809202155/",
       "scriptUpdatedAt": null
     },
     "project_ventura": {
       "label": "Project Ventura",
       "status": "working",
       "placeId": "74270291867468",
+      "gameUrl": "https://www.roblox.com/games/74270291867468/",
       "scriptUpdatedAt": null
     },
     "throw_food_for_animals": {
       "label": "Throw Food For Animals",
       "status": "working",
       "placeId": "120219252362013",
+      "gameUrl": "https://www.roblox.com/games/120219252362013/",
       "scriptUpdatedAt": 1794078297439
     },
     "gakuran": {
       "label": "Gakuran",
       "status": "working",
       "placeId": null,
+      "gameUrl": null,
       "scriptUpdatedAt": null
     }
   }
