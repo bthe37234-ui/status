@@ -56,20 +56,6 @@
       "placeId": "120219252362013",
       "gameUrl": "https://www.roblox.com/games/120219252362013/",
       "scriptUpdatedAt": 1794078297439
-    },
-    "gakuran": {
-      "label": "Gakuran",
-      "status": "working",
-      "placeId": null,
-      "gameUrl": null,
-      "scriptUpdatedAt": null
-    },
-    "project_ventura": {
-      "label": "Project Ventura",
-      "status": "working",
-      "placeId": "74270291867468",
-      "gameUrl": "https://www.roblox.com/games/74270291867468/",
-      "scriptUpdatedAt": null
     }
   }
 }
