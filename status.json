@@ -1,12 +1,12 @@
 {
-  "updatedAt": 1794261373418,
+  "updatedAt": 1794268853170,
   "services": {
     "blox_strike": {
       "label": "Blox Strike",
       "status": "working",
       "placeId": "114234929420007",
       "gameUrl": "https://www.roblox.com/games/114234929420007/",
-      "scriptUpdatedAt": 1794261371883
+      "scriptUpdatedAt": 1794268852627
     },
     "arcade_basketball": {
       "label": "Arcade Basketball",
