@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794524051474,
+  "updatedAt": 1794529039895,
   "services": {
     "blox_strike": {
       "label": "Blox Strike",
@@ -69,6 +69,13 @@
       "status": "working",
       "placeId": null,
       "gameUrl": null,
+      "scriptUpdatedAt": null
+    },
+    "practical_basketball": {
+      "label": "Practical Basketball",
+      "status": "working",
+      "placeId": "80681221431821",
+      "gameUrl": "https://www.roblox.com/games/80681221431821/",
       "scriptUpdatedAt": null
     }
   }
