@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794529039895,
+  "updatedAt": 1794536050918,
   "services": {
     "blox_strike": {
       "label": "Blox Strike",
@@ -34,7 +34,7 @@
       "status": "working",
       "placeId": "126870639873289",
       "gameUrl": "https://www.roblox.com/games/126870639873289/",
-      "scriptUpdatedAt": 1793480074129
+      "scriptUpdatedAt": 1794536049621
     },
     "blade_ball": {
       "label": "Blade Ball",
