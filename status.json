@@ -1,12 +1,12 @@
 {
-  "updatedAt": 1794889267598,
+  "updatedAt": 1794890488001,
   "services": {
     "blox_strike": {
       "label": "Blox Strike",
       "status": "working",
       "placeId": "114234929420007",
       "gameUrl": "https://www.roblox.com/games/114234929420007/",
-      "scriptUpdatedAt": 1794685020039,
+      "scriptUpdatedAt": 1794890487658,
       "type": "free"
     },
     "arcade_basketball": {
@@ -30,7 +30,7 @@
       "status": "working",
       "placeId": "2753915549",
       "gameUrl": "https://www.roblox.com/games/2753915549/",
-      "scriptUpdatedAt": 1794697222432,
+      "scriptUpdatedAt": 1794890487658,
       "type": "free"
     },
     "jump_for_animals": {
