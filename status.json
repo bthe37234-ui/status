@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794891334237,
+  "updatedAt": 1794910533746,
   "services": {
     "blox_strike": {
       "label": "Blox Strike",
@@ -67,7 +67,7 @@
     },
     "project_ventura": {
       "label": "Project Ventura",
-      "status": "working",
+      "status": "issue",
       "placeId": "74270291867468",
       "gameUrl": "https://www.roblox.com/games/74270291867468/",
       "scriptUpdatedAt": null,
