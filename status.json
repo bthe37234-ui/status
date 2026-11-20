@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795124614956,
+  "updatedAt": 1795206135859,
   "services": {
     "blox_strike": {
       "label": "Blox Strike",
@@ -86,6 +86,14 @@
       "status": "working",
       "placeId": "80681221431821",
       "gameUrl": "https://www.roblox.com/games/80681221431821/",
+      "scriptUpdatedAt": null,
+      "type": "free"
+    },
+    "vox_seas": {
+      "label": "Vox Seas",
+      "status": "working",
+      "placeId": "104067066727140",
+      "gameUrl": "https://www.roblox.com/games/104067066727140/",
       "scriptUpdatedAt": null,
       "type": "free"
     }
