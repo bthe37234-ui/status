@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795208973067,
+  "updatedAt": 1795210435647,
   "services": {
     "blox_strike": {
       "label": "Blox Strike",
@@ -30,7 +30,7 @@
       "status": "working",
       "placeId": "2753915549",
       "gameUrl": "https://www.roblox.com/games/2753915549/",
-      "scriptUpdatedAt": 1794890487658,
+      "scriptUpdatedAt": 1795210435314,
       "type": "free"
     },
     "jump_for_animals": {
@@ -94,7 +94,7 @@
       "status": "working",
       "placeId": "104067066727140",
       "gameUrl": "https://www.roblox.com/games/104067066727140/",
-      "scriptUpdatedAt": null,
+      "scriptUpdatedAt": 1795210435314,
       "type": "free"
     },
     "anime_paradise": {
@@ -102,7 +102,7 @@
       "status": "working",
       "placeId": "96665881849072",
       "gameUrl": "https://www.roblox.com/games/96665881849072/",
-      "scriptUpdatedAt": null,
+      "scriptUpdatedAt": 1795210435314,
       "type": "free"
     }
   }
