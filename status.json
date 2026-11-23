@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795212912183,
+  "updatedAt": 1795411599644,
   "services": {
     "blox_strike": {
       "label": "Blox Strike",
@@ -94,7 +94,7 @@
       "status": "working",
       "placeId": "104067066727140",
       "gameUrl": "https://www.roblox.com/games/104067066727140/",
-      "scriptUpdatedAt": 1795210435314,
+      "scriptUpdatedAt": 1795411598562,
       "type": "free"
     },
     "anime_paradise": {
