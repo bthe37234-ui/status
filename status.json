@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795649577012,
+  "updatedAt": 1795669429794,
   "services": {
     "blox_strike": {
       "label": "Blox Strike",
@@ -30,7 +30,7 @@
       "status": "working",
       "placeId": "2753915549",
       "gameUrl": "https://www.roblox.com/games/2753915549/",
-      "scriptUpdatedAt": 1795210435314,
+      "scriptUpdatedAt": 1795669429438,
       "type": "free"
     },
     "jump_for_animals": {
